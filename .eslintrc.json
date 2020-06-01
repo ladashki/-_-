@@ -8,7 +8,8 @@
     "rules": {
       "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"]}],
       "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
-      "curly": [2, "all"]
+      "curly": [2, "all"],
+           "linebreak-style": 0 
     },
     "parser": "babel-eslint"
   }
